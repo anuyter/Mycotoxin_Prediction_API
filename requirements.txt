@@ -1,0 +1,11 @@
+tensorflow
+flask 
+numpy 
+pandas
+scikit-learn
+scipy
+streamlit
+joblib
+pytest
+fastapi
+uvicorn
